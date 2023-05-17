@@ -24,3 +24,11 @@ span {
     justify-content: center;
     font-size:120%;
 }
+img{
+    display: flex;
+    position: absolute;
+    width: 3.5%;
+    top: 2%;
+    left: 2%;
+
+}

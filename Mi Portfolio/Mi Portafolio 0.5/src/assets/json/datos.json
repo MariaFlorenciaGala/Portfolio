@@ -43,11 +43,6 @@
       "imgHard": "../../../assets/images-hard&soft/logoGitHub.png"
     },
     {
-      "id": "NodeJS",
-      "porcentaje": 70,
-      "imgHard": "../../../assets/images-hard&soft/logoNODEJS.png"
-    },
-    {
       "id": "Photoshop",
       "porcentaje": 85,
       "imgHard": "../../../assets/images-hard&soft/logoPhotoshop.png"
@@ -61,11 +56,6 @@
       "id": "Angular",
       "porcentaje": 70,
       "imgHard": "../../../assets/images-hard&soft/logoAngular.png"
-    },
-    {
-      "id": "Phyton",
-      "porcentaje": 70,
-      "imgHard": "../../../assets/images-hard&soft/logoPython.png"
     }
   ],
   "softSkills":[
@@ -122,7 +112,7 @@
     "descripcion": "Segunda etapa del plan Argentina programa, dictado por INTI.",
     "fin": "2023",
     "img": "../../../assets/images-educacion/LogoArgPrograma.JPG",
-    "certificado": "si"
+    "certificado": "no"
     },
     {
     "id":1,
@@ -282,7 +272,7 @@
   "introContacto": "me encantaría trabajar con usted",
   "telefono":"+54 3472 509569",
   "mail": "MariaFlorenciaGala8@gmail.com",
-  "ubicacion": "Maestra Florentina Rosas 1188, Marcos Juárez, Cordoba, Argentina.",
+  "ubicacion": "San Martín 1786, Marcos Juárez, Cordoba, Argentina.",
   "imgError": "../../../assets/images-error/error.JPG",
   "redes":[{
     "nombre": "twitter",

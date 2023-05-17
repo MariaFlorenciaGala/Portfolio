@@ -2,9 +2,13 @@
 .navbar{
     display: flex;
     text-align: center;
+
 }
 button{
     font-family: 'Bebas';
     color:#0334a5;
     letter-spacing:1px;
+}
+i{
+    font-size: 1.5rem;
 }

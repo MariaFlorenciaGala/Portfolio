@@ -16,7 +16,6 @@ import { HardComponent } from './components/hard/hard.component';
 import { ContactoComponent } from './components/contacto/contacto.component';
 import { CopyrightComponent } from './components/copyright/copyright.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
-import { LogoAPComponent } from './components/header/logo-ap/logo-ap.component';
 import { CardComponent } from './components/misproyectos/card/card.component';
 import { RedesComponent } from './components/header/redes/redes.component';
 import { CalculadoraComponent } from './components/misproyectos/proyectos/calculadora/calculadora.component';
@@ -40,7 +39,6 @@ import { LogInComponent } from './components/header/login/log-in/log-in.componen
     HardComponent,
     ContactoComponent,
     CopyrightComponent,
-    LogoAPComponent,
     CardComponent,
     RedesComponent,
     CalculadoraComponent,
