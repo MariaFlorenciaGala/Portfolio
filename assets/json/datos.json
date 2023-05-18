@@ -216,7 +216,7 @@
     "id":0,
     "nombre": "Sanando",
     "descripcion": "Editora de videos de canal propio , tengo al 03/2023 101.000 suscriptores. Corto, edito y resubo videos de Biodesprogramación.",
-    "img": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-experiencia/LogoSanando.JPG",
+    "img": "assets/images-experiencia/LogoSanando.JPG",
     "puestos":[{
         "titulo":"Propietaria editora",
         "desde": "Febrero 2011",
@@ -227,7 +227,7 @@
     "id":1,
     "nombre": "Plot-Vinilos",
     "descripcion": "Diseño con maquinaria propia calcos, esmerilados a gran escala , vinilos textiles , diseños de remeras, rotulación vehicular y todo lo que tenga que ver con vinilos.",
-    "img": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-experiencia/LogoPlot.png",
+    "img": "assets/images-experiencia/LogoPlot.png",
     "puestos":[{
         "titulo":"Propietaria y diseñadora",
         "desde": "Noviembre 2015",
@@ -237,7 +237,7 @@
     {
     "id":2,
     "nombre": "Maria Florencia Gala",
-    "img": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-experiencia/LogoFloryGala.JPG",
+    "img": "assets/images-experiencia/LogoFloryGala.JPG",
     "descripcion": "Fotógrafa social y de eventos , manejo de photoshop , manipulacion de imágenes , edición de videos para bandas, quinceaños, familiares, etc.",
     "puestos":[{
       "titulo":"Fotógrafa y editora de video",
@@ -249,7 +249,7 @@
     "id":3,
     "nombre": "Cencosud",
     "descripcion": "Desde que ingresé en mi pueblo natal (Marcos Juarez )como cajera para la empresa Cencosud, estuve en la búsqueda de crecimiento.Tuve la posibilidad gracias a mi desempeño de crecer a encargada de caja y posteriormente a supervisora de caja. Luego, me traslade a Córdoba capital donde comencé la carrera de Marketing de la empresa y logré el puesto de asistente de Marketing.",
-    "img": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-experiencia/LogoCencosud.png",
+    "img": "assets/images-experiencia/LogoCencosud.png",
     "puestos":[{
       "titulo":"Analista de Marketing",
       "desde": "Julio 2016",
