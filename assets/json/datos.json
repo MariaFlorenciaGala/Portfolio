@@ -8,14 +8,14 @@
   "proyectos":[
     {
     "id":0,
-    "img": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-proyects/Pokedesk.JPG",
+    "img": "assets/images-proyects/Pokedesk.JPG",
     "nombre" :"Pokedesk",
     "descripcion": "Aqui comencé en el mundo de las APIS, con una Pokedesk que invoca habilidades, tipo y movimientos.",
     "link": ""
     },
     {
     "id":1,
-    "img": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-proyects/Calculadora.JPG",
+    "img": "assets/images-proyects/Calculadora.JPG",
     "nombre" :"Calculadora",
     "descripcion": "Una Calculadora que me ayudó con javasCript , implementando funciones de raiz, potencia y resto.",
     "link": ""
@@ -267,7 +267,7 @@
   ]}
   ],
   "acerca": "Hola! soy una programadora en constante evolución y con ganas de encarar día a día nuevos desafíos. Manejo muy bien las frustraciones y las considero parte del camino para encontrar los objetivos. Optimizo recursos, logro objetivos , busco formas de resolver y si no las conozco...las aprendo. Mi objetivo es crecer, evolucionar y disfrutar de cada logro . Espero poder brindarte apoyo en lo que estés buscando y logremos trabajar juntos en nuevos proyectos.",
-  "imgAcerca": "https://github.com/Flory3508/MariaFlorenciaGala/blob/main/src/assets/images-home/image-1.jpg",
+  "imgAcerca": "assets/images-home/image-1.jpg",
   "contacteme":"Contácteme!",
   "introContacto": "me encantaría trabajar con usted",
   "telefono":"+54 3472 509569",
