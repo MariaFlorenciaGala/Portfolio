@@ -18,7 +18,6 @@ import { CopyrightComponent } from './components/copyright/copyright.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { CardComponent } from './components/misproyectos/card/card.component';
 import { RedesComponent } from './components/header/redes/redes.component';
-import { CalculadoraComponent } from './components/misproyectos/proyectos/calculadora/calculadora.component';
 import { HomeComponent } from './components/home/home.component';
 import { ErrorComponent } from './components/error/error.component';
 import { PokedeskComponent } from './components/misproyectos/pokedesk/pokedesk.component';
@@ -41,7 +40,6 @@ import { LogInComponent } from './components/header/login/log-in/log-in.componen
     CopyrightComponent,
     CardComponent,
     RedesComponent,
-    CalculadoraComponent,
     ErrorComponent,
     PokedeskComponent,
     LogInComponent,
