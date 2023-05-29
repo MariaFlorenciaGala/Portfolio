@@ -1,7 +1,7 @@
 { 
   "nombre": "María Florencia",
-  "apellido": "Gala",
-  "titulo": "Full Stack Development",
+  "apellido": "Batalla Córdoba",
+  "titulo": "Full Stack Development JR",
   "introduccion": "Éste es mi portfolio,aquí encontrarás mis proyectos , información personal y de contacto, espero que lo disfrutes",
   "imgHome":"assets/images-home/image-1.jpg",
   "introProyectos": "Estos son los proyectos en los que he participado hasta la fecha, cada uno de ellos un desafío cumplido.",
@@ -11,14 +11,14 @@
     "img": "assets/images-proyects/Pokedesk.JPG",
     "nombre" :"Pokedesk",
     "descripcion": "Aqui comencé en el mundo de las APIS, con una Pokedesk que invoca habilidades, tipo y movimientos.",
-    "link": ""
+    "link": "https://github.com/MariaFlorenciaGala"
     },
     {
     "id":1,
     "img": "assets/images-proyects/Calculadora.JPG",
     "nombre" :"Calculadora",
     "descripcion": "Una Calculadora que me ayudó con javasCript , implementando funciones de raiz, potencia y resto.",
-    "link": ""
+    "link": "https://github.com/MariaFlorenciaGala"
     }
   ],
   "hardSkills":[

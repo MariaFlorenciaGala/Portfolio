@@ -9,11 +9,14 @@ import { PortfolioService } from 'src/app/services/portfolio.service';
 export class MisproyectosComponent implements OnInit{
 
   introProyectos: string = ''; 
+  link: string = ''; 
+
 
   constructor( private portfolioService: PortfolioService){}
   ngOnInit():void{
     this.portfolioService.getDatos().subscribe(portfolio => {
       this.introProyectos = portfolio.introProyectos;
+      this.link = portfolio.proyecto.link;
     })
   }
 }
